@@ -98,7 +98,7 @@ public class Main {
         String[] strs3 = {"he", ""};
         String[] strs4 = {};
         String[] strs5 = {"abab","aba",""};
-        System.out.println(myMain.longestCommonPrefix(strs5));
+        System.out.println(myMain.longestCommonPrefix(strs1));
     }
 
 }
