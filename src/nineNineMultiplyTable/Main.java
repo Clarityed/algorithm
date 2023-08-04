@@ -1,4 +1,4 @@
-package NineNineMultiplyTable;
+package nineNineMultiplyTable;
 
 /**
  * 打印九九乘法表
